@@ -1,6 +1,7 @@
 # Sorting-Algorithms
 
-Binary Sort"\n"Bubble Sort
+Binary Sort
+Bubble Sort
 Heap Sort
 Insertion Sort
 Merge Sort
